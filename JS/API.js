@@ -24,7 +24,7 @@ API.getApartments(
     )
 
     API.deleteApartment(
-  '1', // numeris objekto
+  '1', // numeris objekto, kurį ištrins
   (duomenys) => console.log('gavau duomenis', duomenys), 
   (klaida) => console.error('klaida!!!!', klaida) 
 )
