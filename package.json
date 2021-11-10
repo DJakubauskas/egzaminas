@@ -1,0 +1,23 @@
+{
+  "name": "egzaminas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-win": "node_modules\\.bin\\json-server --watch db.json",
+    "start-unix": "node_modules/.bin/json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJakubauskas/egzaminas.git"
+  },
+  "author": "Darius Jakubauskas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJakubauskas/egzaminas/issues"
+  },
+  "homepage": "https://github.com/DJakubauskas/egzaminas#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
