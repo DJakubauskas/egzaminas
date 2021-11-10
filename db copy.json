@@ -1,0 +1,96 @@
+
+{
+    "Apartment": [
+      {
+        "id": "1",
+        "type": "house",
+        "owner": {
+            "fullname": "Angelė Turtuolė",
+            "email": "angele@email.lt",
+            "phone": "+37060044444"
+        },
+        "roomCount": 10,
+         "squares": 450,
+        "address": {
+            "city": "Vilnius", 
+            "country": "Lietuva",
+            "street": "Saulės g.",
+            "number": "12"
+        },
+        "price": {
+            "amount": 1000000,
+            "currency": "€"
+        },
+        "imgSrc": "https://www.statybunaujienos.lt/images/naujienos/726_545/1250.jpg"
+      },
+
+      {
+        "id": "2",
+        "type": "flat",
+        "owner": {
+            "fullname": "Anelė Gudruolė",
+            "email": "anele@email.lt",
+            "phone": "+37050044444"
+        },
+        "roomCount": 1,
+         "squares": 45,
+        "address": {
+            "city": "Vilnius", 
+            "country": "Lietuva",
+            "street": "Gaulės g.",
+            "number": "12-1"
+        },
+        "price": {
+            "amount": 40000,
+            "currency": "€"
+        },
+        "imgSrc": "https://www.bustokryptis.lt/new/wp-content/uploads/2018/11/1-7-1024x684.jpg"
+      },
+
+      {
+        "id": "3",
+        "type": "cottage",
+        "owner": {
+            "fullname": "Alius Šaunuolis",
+            "email": "alius@email.lt",
+            "phone": "+37010044344"
+        },
+        "roomCount": 3,
+         "squares": 88,
+        "address": {
+            "city": "Vilnius", 
+            "country": "Lietuva",
+            "street": "Vargo g.",
+            "number": "1-2"
+        },
+        "price": {
+            "amount": 140000,
+            "currency": "€"
+        },
+        "imgSrc": "https://www.henkesta.lt/wp-content/uploads/2019/03/kotedzas3-min.jpg"
+      },
+
+      {
+        "id": "4",
+        "type": "flat",
+        "owner": {
+            "fullname": "Dalius Dainorėlis",
+            "email": "Dalius@email.lt",
+            "phone": "+37080041344"
+        },
+        "roomCount": 2,
+         "squares": 58,
+        "address": {
+            "city": "Vilnius", 
+            "country": "Lietuva",
+            "street": "Gerovės g.",
+            "number": "8-22"
+        },
+        "price": {
+            "amount": 90000,
+            "currency": "$"
+        },
+        "imgSrc": "https://kaunozinios.lt/wp-content/uploads/2021/05/B%C5%ABstas-su-balkonu.png"
+      }
+    ]
+}
